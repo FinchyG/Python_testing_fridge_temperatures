@@ -1,5 +1,7 @@
 # Test whether fridge temperatures are between 1 and 5 degrees Celsius
 
+# function with one parameter, temperatures: a list of numbers
+
 def test_temperature(temperatures):
 
     # initialise empty list to store temperatures outside of range 1 to 5 
